@@ -1,3 +1,4 @@
+#Test trigger not in root directory
 terraform {
   required_providers {
     aws = {
